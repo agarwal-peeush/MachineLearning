@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ML.NET/TaxiFarePrediction/TaxiFarePrediction/bin/Debug/netcoreapp2.1
+/ML.NET/TaxiFarePrediction/TaxiFarePrediction/obj
+/ML.NET/TaxiFarePrediction/.vs/TaxiFarePrediction/v15
