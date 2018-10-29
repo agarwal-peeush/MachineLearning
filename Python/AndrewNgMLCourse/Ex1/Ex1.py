@@ -16,3 +16,8 @@ X = data.iloc[:,0] # read first column
 y = data.iloc[:,1] # read second column
 m = len(y) # number of training example
 print(data.head()) # view first few rows of the data
+
+plt.scatter(X, y)
+plt.xlabel('Population of city in 10,000s')
+plt.ylabel('Profit in $10,000s')
+plt.show()
