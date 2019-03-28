@@ -1,4 +1,4 @@
-﻿################################################################################
+################################################################################
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
@@ -6,3 +6,6 @@
 /ML.NET/TaxiFarePrediction/TaxiFarePrediction/obj
 /ML.NET/TaxiFarePrediction/.vs/TaxiFarePrediction/v15
 /Python/AndrewNgMLCourse/Ex1/NoVersionControl.txt
+ML.NET/PredictFlightTicketPricePrediction/.vs/
+ML.NET/PredictFlightTicketPricePrediction/PredictFlightTicketPrice/bin/
+ML.NET/PredictFlightTicketPricePrediction/PredictFlightTicketPrice/obj/
